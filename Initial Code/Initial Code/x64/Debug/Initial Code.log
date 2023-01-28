@@ -1,0 +1,6 @@
+﻿  Initial Code.cpp
+C:\Users\gregb\source\repos\Initial Code\Initial Code\Initial Code.cpp(31,16): error C2275: 'main::add': expected an expression instead of a type
+C:\Users\gregb\source\repos\Initial Code\Initial Code\Initial Code.cpp(31,30): error C2143: syntax error: missing ';' before 'string'
+C:\Users\gregb\source\repos\Initial Code\Initial Code\Initial Code.cpp(33,9): error C2146: syntax error: missing ';' before identifier 'cin'
+C:\Users\gregb\source\repos\Initial Code\Initial Code\Initial Code.cpp(33,16): error C2275: 'main::add': expected an expression instead of a type
+C:\Users\gregb\source\repos\Initial Code\Initial Code\Initial Code.cpp(33,29): error C2143: syntax error: missing ';' before 'string'
