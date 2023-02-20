@@ -1,0 +1,21 @@
+
+					CGB Student Information System
+
+
+How to Install
+
+First, you need a Microsoft Visual Studio Application then Set-up your Application make sure that it has a Desktop Development
+with C++ it located in Workloads in VS Installer then open your Visual Studio click the "Open a local folder" then select the 
+file with .sln extension.
+
+How to Use this Program :
+
+The Project I've create is Student Information System which I called siscgb, My project is composed of basic function of CRUDE
+(Create, Read, Update, Delete, Edit). The first thing you'll see when you open my project is the front page which composed of
+the Menu. In the Menu, you have 5 options which is 1 (Student) - Register New Student, 2 (Student) - View Records,
+3 (Teachers) - Modify Records, 4 (Admin) - Delete Records, 5 - Exit. In option 1 which is Register New Student it shows up the 
+Sign-up form for new students which need to fill-up the Firstname, Lastname, Student Number, Course,  Year. In option 2 which 
+is View Records it shows the basic view Information of the students information, In option 3 which is the Modify Records this 
+option is for Faculty only, in this section where the Professor and Instructors input the students grade. In option 4  which is
+the Delete Records where only Administrator can only Access, Administrator can remove the student records. Lastly the option 5,
+this option is where you want to Exit the Program.
